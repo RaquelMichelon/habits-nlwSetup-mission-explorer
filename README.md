@@ -10,3 +10,10 @@ An app to check daily routine
 - Concepts Review: HTML, CSS, MD 
 - Use of https://www.fronteditor.dev/
 
+![Project Day1](day1.png)
+
+## Day 2 - Tuesday
+- CSS Especificity 
+
+![Project Day2](day2.png)
+
