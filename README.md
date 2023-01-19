@@ -17,7 +17,7 @@ An app to check daily routine
 
 ![Project Day2](day2.png)
 
-## Day 3 - Tuesday
+## Day 3 - Wednesday
 - Using External Js library
 - Reading Lib documentation (https://maykbrito.github.io/libs/NLWSetup/documentation/NLWSetup.html#setData)
 - Js Review
