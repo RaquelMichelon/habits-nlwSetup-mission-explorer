@@ -20,41 +20,24 @@
       <img src="./assets/logo.svg" alt="Habits app logo" />
       <button>
         <img src="./assets/plus.svg" alt="purple plus icon" />
-        Register my day
+        <div>Register my day</div>
       </button>
     </header>
 
     <form id="form-habits">
       <div class="habits">
-        <div class="habit">🏃🏼‍♀️</div>
-        <div class="habit">💧</div>
-        <div class="habit">🍏</div>
-        <div class="habit">📚</div>
-        <div class="habit">👩‍💻</div>
-        <div class="habit">🇨🇦</div>
+        <div class="habit" data-name="run">🏃🏼‍♀️</div>
+        <div class="habit" data-name="water">💧</div>
+        <div class="habit" data-name="food">🍏</div>
+        <div class="habit" data-name="reading">📚</div>
+        <div class="habit" data-name="programming">👩‍💻</div>
+        <div class="habit" data-name="english">🇨🇦</div>
       </div>
 
-      <div class="days">
-        <div class="day">
-          <div>18/01</div>
-          <input type="checkbox" name="exercise" />
-          <input type="checkbox" name="water" checked />
-          <input type="checkbox" name="food" />
-          <input type="checkbox" name="reading" />
-          <input type="checkbox" name="programming" />
-          <input type="checkbox" name="english" />
-        </div>
-
-        <div class="day">
-          <div>19/01</div>
-          <input type="checkbox" name="exercise" />
-          <input type="checkbox" name="water" checked />
-          <input type="checkbox" name="food" />
-          <input type="checkbox" name="reading" />
-          <input type="checkbox" name="programming" />
-          <input type="checkbox" name="english" />
-        </div>
-      </div>
+      <div class="days"></div>
     </form>
+
+    <script src="https://cdn.jsdelivr.net/gh/maykbrito/libs/NLWSetup/source/NLWSetup.js"></script>
+    <script src="./script.js"></script>
   </body>
 </html>
