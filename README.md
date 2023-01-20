@@ -25,7 +25,14 @@ An app to check daily routine
 
 ![Project Day3](day3.png)
 
+## Day 4 - Thursday
+- Event Listener
+- JS Built in functions
+- Local Storage
 
-### Acknowledgment
+![Project Day4](day4.png)
 
-♡ RocketSeat [NLW #11 Setup] who has prepared all those content. 
+
+### ♡ Acknowledgment
+
+♡ Thanks to Rocketseat [NLW #11 Setup] who has prepared all those content. 
