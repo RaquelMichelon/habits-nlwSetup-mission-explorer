@@ -1,9 +1,11 @@
 # habits web app [NLW-Setup] [Mission Explorer]
 
 ## The Project
-An app to check daily routine
+An daily routine tracker
 
 ![Project Layout](habits-explorer.png)
+
+- [Project live online](https://raquelmichelon.github.io/habits-nlwSetup-mission-explorer/)
 
 
 ## Day 1 - Monday
